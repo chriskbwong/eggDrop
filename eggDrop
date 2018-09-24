@@ -32,6 +32,6 @@ def eggDrop(eggs, floors):
   print (eggFloor[eggs][floors])
 
 #test cases
-eggs = 1
-floors = 110
+eggs = 2
+floors = 100
 eggDrop(eggs, floors)
